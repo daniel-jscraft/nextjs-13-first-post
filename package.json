@@ -1,0 +1,28 @@
+{
+  "name": "nextjs-13-first-fetch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "next build",
+    "start": "next start",
+    "dev": "next"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniel-jscraft/nextjs-13-first-fetch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniel-jscraft/nextjs-13-first-fetch/issues"
+  },
+  "homepage": "https://github.com/daniel-jscraft/nextjs-13-first-fetch#readme",
+  "dependencies": {
+    "eslint-config-next": "^13.0.4",
+    "next": "^13.0.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
